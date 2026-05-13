@@ -28,6 +28,8 @@ pairwise multiple comparisons that are usually performed in statistical
 data analysis to assess the differences between group levels if a statistically
 significant result of ANOVA test has been obtained.
 
+[scikit-posthocs-gui](https://github.com/murilomarinho/scikit-posthocs-gui)
+
 **scikit-posthocs** is tightly integrated with Pandas DataFrames and NumPy
 arrays to ensure fast computations and convenient data import and storage.
 
